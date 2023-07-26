@@ -1,5 +1,5 @@
-# Typescript 1.0
-## Projeto para estudos da linguagem Typescript
+<h1 align="left">Typescript 1.0</h1>
+<h2>Projeto para estudos da linguagem Typescript</h2>
 
 # Rodando o projeto para teste
 # Clone esse repositório
