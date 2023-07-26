@@ -6,7 +6,7 @@
 <h3>Rodando o projeto para teste</h3>
 
 # Clone esse repositório
-<code>$ git clone <git@github.com:glaudir/typescript-1.git></code>
+<code>$ git clone <git@github.com:glaudir/Typescript-1.git></code>
 
 # Acesse a pasta do projeto no terminal/cmd
 <code>$ cd typescript-1</code>
