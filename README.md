@@ -3,8 +3,9 @@
 
 ![Imagem do formulário](https://github.com/glaudir/typescript-1/blob/e3e62b8d42de339e2735f30e708641ee68a78d75/tela-inicio.png)
 
-# Rodando o projeto para teste
-# Clone esse repositório
+<h3>Rodando o projeto para teste</h3>
+
+<b>Clone esse repositório</b>
 $ git clone <git@github.com:glaudir/typescript-1.git>
 
 # Acesse a pasta do projeto no terminal/cmd
