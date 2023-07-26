@@ -20,7 +20,10 @@
 # Entre com os dados no formulário
 <code>$ http://localhost:3000</code>
 
-# visualização dos dados
+# Visualização dos dados
 <code>$ veja no console do navegador</code>
+
+# Código no vsCode
+![Imagem do código](https://github.com/glaudir/typescript-1/blob/1fe2b974ff21eba919d12a55d77ad9ecde995faa/tela-codigos.png)
 
 ![Badge em Testes](http://img.shields.io/static/v1?label=STATUS&message=EM%20TESTES&color=GREEN&style=for-the-badge)
