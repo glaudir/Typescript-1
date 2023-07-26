@@ -2,8 +2,8 @@
 ## Projeto para estudos da linguagem Typescript
 
 # Rodando o projeto para teste
-# Clone esse repositéorio
-$ git clone <>
+# Clone esse repositório
+$ git clone <git@github.com:glaudir/typescript-1.git>
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd typescript-1
