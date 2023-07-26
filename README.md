@@ -9,16 +9,18 @@
 <code>$ git clone <git@github.com:glaudir/typescript-1.git></code>
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd typescript-1
+<code>$ cd typescript-1</code>
 
 # Instale as dependências
-$ npm install
+<code>$ npm install</code>
 
 # Execute a aplicação
-$ npm run start
+<code>$ npm run start</code>
 
 # Entre com os dados no formulário
-$ http://localhost:3000
+<code>$ http://localhost:3000</code>
 
 # visualização dos dados
-$ veja no console do navegador
+<code>$ veja no console do navegador</code>
+
+![Badge em Testes](http://img.shields.io/static/v1?label=STATUS&message=EM%20TESTES&color=GREEN&style=for-the-badge)
